@@ -1,0 +1,21 @@
+
+{
+	"build_name": "Main Build",
+	"scripts_path": "scripts/",
+	"compiler_path": "vendor/",
+	"build_path": "js/",
+	"build_filename": "build.js",
+	"copyright": "/**\n * Tom Black (@blacktm) (C) 2012\n */\n",
+	"import": "",
+	"scripts": [
+		"ui/ui",
+		"ui/header",
+		"ui/console",
+		"ui/panel",
+		"ui/footer",
+		"app/app",
+		"app/library",
+		"app/inspector",
+		"app/end"
+	]
+}
